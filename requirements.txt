@@ -5,5 +5,5 @@ matplotlib
 seaborn
 scikit-learn
 plotly
-streamlit-folium
 folium
+streamlit-folium
